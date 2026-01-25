@@ -1,0 +1,6 @@
+[book]
+title = "Uberchess NN"
+author = "cursor"
+
+[build]
+build-dir = "book"
